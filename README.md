@@ -8,6 +8,8 @@ With the "Car Rental" application, you can quickly and easily view the cars that
 
 - CSS
 
+- JavaScript
+
 - TypeScript
 
 <h2> Libraries </h2>
